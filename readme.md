@@ -16,12 +16,13 @@ So yeah, I don't quite know how "legal" making icons like that is. In any case, 
 trade marks, intellectual property etc. etc. of all of those belongs to their original companies and owners.
 I made these icons for my own purposes only.
 
-All the 100 icons below:
+All the 115 icons below:
 
 ### Engines
 
 <img src="engines/emoji-babylonjs.png" alt="babylonjs" title="babylonjs" width="24"></img>
 <img src="engines/emoji-bevy.png" alt="bevy" title="bevy" width="24"></img>
+<img src="engines/emoji-cinder.png" alt="cinder" title="cinder" width="24"></img>
 <img src="engines/emoji-cocos2d.png" alt="cocos2d" title="cocos2d" width="24"></img>
 <img src="engines/emoji-construct.png" alt="construct" title="construct" width="24"></img>
 <img src="engines/emoji-defold.png" alt="defold" title="defold" width="24"></img>
@@ -36,12 +37,16 @@ All the 100 icons below:
 <img src="engines/emoji-panda3d.png" alt="panda3d" title="panda3d" width="24"></img>
 <img src="engines/emoji-pico8.png" alt="pico8" title="pico8" width="24"></img>
 <img src="engines/emoji-playcanvas.png" alt="playcanvas" title="playcanvas" width="24"></img>
+<img src="engines/emoji-processing.png" alt="processing" title="processing" width="24"></img>
 <img src="engines/emoji-pygame.png" alt="pygame" title="pygame" width="24"></img>
 <img src="engines/emoji-raylib.png" alt="raylib" title="raylib" width="24"></img>
 <img src="engines/emoji-renpy.png" alt="renpy" title="renpy" width="24"></img>
+<img src="engines/emoji-scratch.png" alt="scratch" title="scratch" width="24"></img>
+<img src="engines/emoji-stencyl.png" alt="stencyl" title="stencyl" width="24"></img>
 <img src="engines/emoji-threejs.png" alt="threejs" title="threejs" width="24"></img>
 <img src="engines/emoji-unity.png" alt="unity" title="unity" width="24"></img>
 <img src="engines/emoji-unreal.png" alt="unreal" title="unreal" width="24"></img>
+<img src="engines/emoji-vvvv.png" alt="vvvv" title="vvvv" width="24"></img>
 
 ### Misc
 
@@ -86,15 +91,19 @@ All the 100 icons below:
 
 <img src="tools/emoji-3dsmax.png" alt="3dsmax" title="3dsmax" width="24"></img>
 <img src="tools/emoji-ableton.png" alt="ableton" title="ableton" width="24"></img>
+<img src="tools/emoji-aseprite.png" alt="aseprite" title="aseprite" width="24"></img>
 <img src="tools/emoji-audacity.png" alt="audacity" title="audacity" width="24"></img>
 <img src="tools/emoji-blender.png" alt="blender" title="blender" width="24"></img>
 <img src="tools/emoji-buildbot.png" alt="buildbot" title="buildbot" width="24"></img>
 <img src="tools/emoji-confluence.png" alt="confluence" title="confluence" width="24"></img>
+<img src="tools/emoji-cubase.png" alt="cubase" title="cubase" width="24"></img>
 <img src="tools/emoji-davinci.png" alt="davinci" title="davinci" width="24"></img>
 <img src="tools/emoji-discord.png" alt="discord" title="discord" width="24"></img>
+<img src="tools/emoji-emacs.png" alt="emacs" title="emacs" width="24"></img>
 <img src="tools/emoji-excel.png" alt="excel" title="excel" width="24"></img>
 <img src="tools/emoji-favro.png" alt="favro" title="favro" width="24"></img>
 <img src="tools/emoji-figma.png" alt="figma" title="figma" width="24"></img>
+<img src="tools/emoji-flstudio.png" alt="flstudio" title="flstudio" width="24"></img>
 <img src="tools/emoji-fmod.png" alt="fmod" title="fmod" width="24"></img>
 <img src="tools/emoji-garageband.png" alt="garageband" title="garageband" width="24"></img>
 <img src="tools/emoji-gimp.png" alt="gimp" title="gimp" width="24"></img>
@@ -105,6 +114,8 @@ All the 100 icons below:
 <img src="tools/emoji-jira.png" alt="jira" title="jira" width="24"></img>
 <img src="tools/emoji-krita.png" alt="krita" title="krita" width="24"></img>
 <img src="tools/emoji-lightwave.png" alt="lightwave" title="lightwave" width="24"></img>
+<img src="tools/emoji-logicpro.png" alt="logicpro" title="logicpro" width="24"></img>
+<img src="tools/emoji-maxmsp.png" alt="maxmsp" title="maxmsp" width="24"></img>
 <img src="tools/emoji-maya.png" alt="maya" title="maya" width="24"></img>
 <img src="tools/emoji-miro.png" alt="miro" title="miro" width="24"></img>
 <img src="tools/emoji-modo.png" alt="modo" title="modo" width="24"></img>
@@ -115,17 +126,23 @@ All the 100 icons below:
 <img src="tools/emoji-plasticscm.png" alt="plasticscm" title="plasticscm" width="24"></img>
 <img src="tools/emoji-premiere.png" alt="premiere" title="premiere" width="24"></img>
 <img src="tools/emoji-procreate.png" alt="procreate" title="procreate" width="24"></img>
+<img src="tools/emoji-protools.png" alt="protools" title="protools" width="24"></img>
 <img src="tools/emoji-reaper.png" alt="reaper" title="reaper" width="24"></img>
+<img src="tools/emoji-renoise.png" alt="renoise" title="renoise" width="24"></img>
 <img src="tools/emoji-rider.png" alt="rider" title="rider" width="24"></img>
 <img src="tools/emoji-slack.png" alt="slack" title="slack" width="24"></img>
 <img src="tools/emoji-spine.png" alt="spine" title="spine" width="24"></img>
 <img src="tools/emoji-substance.png" alt="substance" title="substance" width="24"></img>
+<img src="tools/emoji-svn.png" alt="svn" title="svn" width="24"></img>
 <img src="tools/emoji-teamcity.png" alt="teamcity" title="teamcity" width="24"></img>
 <img src="tools/emoji-trello.png" alt="trello" title="trello" width="24"></img>
 <img src="tools/emoji-twine.png" alt="twine" title="twine" width="24"></img>
 <img src="tools/emoji-vim.png" alt="vim" title="vim" width="24"></img>
 <img src="tools/emoji-visualstudio.png" alt="visualstudio" title="visualstudio" width="24"></img>
 <img src="tools/emoji-vscode.png" alt="vscode" title="vscode" width="24"></img>
+<img src="tools/emoji-winamp.png" alt="winamp" title="winamp" width="24"></img>
 <img src="tools/emoji-word.png" alt="word" title="word" width="24"></img>
 <img src="tools/emoji-wwise.png" alt="wwise" title="wwise" width="24"></img>
 <img src="tools/emoji-zoom.png" alt="zoom" title="zoom" width="24"></img>
+
+
