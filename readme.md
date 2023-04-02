@@ -11,6 +11,7 @@ quite know how "legal" making icons like that is. In any case, all the copyright
 property etc. etc. of all of those belongs to their original companies and owners. I made them all for my own
 purposes only.
 
+All the 100 icons below:
 
 ### Engines
 
