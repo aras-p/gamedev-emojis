@@ -1,5 +1,16 @@
-# gamedev-emojis
-128x128 sized icons of various game development tools
+# Game Development Emojis
+
+128x128 sized icons of various game development things.
+
+I have made all of them myself, by going to website/brand/press pages of all these products, downloading official
+logo/icon artwork, resizing that to 128x128 size, and adding either a dark or a light outline around it.
+***:warning: This is likely against the official branding guidelines of many of these tools! :warning:***
+Many of them contain language that says that you can't add an outline or similar; while at the same time making
+the logo in such a way that it's not visible on either dark or a light background :facepalm:. So yeah, I don't
+quite know how "legal" making icons like that is. In any case, all the copyrights, trade marks, intellectual
+property etc. etc. of all of those belongs to their original companies and owners. I made them all for my own
+purposes only.
+
 
 ### Engines
 
