@@ -18,7 +18,7 @@ I made these icons for my own purposes only.
 
 All the 130 icons below, shown at 24pt size:
 
-### Engines
+### engines
 
 <img src="engines/emoji-babylonjs.png" alt="babylonjs" title="babylonjs" width="24"></img>
 <img src="engines/emoji-bevy.png" alt="bevy" title="bevy" width="24"></img>
@@ -27,7 +27,7 @@ All the 130 icons below, shown at 24pt size:
 <img src="engines/emoji-cocos2d.png" alt="cocos2d" title="cocos2d" width="24"></img>
 <img src="engines/emoji-construct.png" alt="construct" title="construct" width="24"></img>
 <img src="engines/emoji-defold.png" alt="defold" title="defold" width="24"></img>
-<img src="engines/emoji-dotbigbang.png" alt="defold" title="defold" width="24"></img>
+<img src="engines/emoji-dotbigbang.png" alt="dotbigbang" title="dotbigbang" width="24"></img>
 <img src="engines/emoji-flash.png" alt="flash" title="flash" width="24"></img>
 <img src="engines/emoji-flax.png" alt="flax" title="flax" width="24"></img>
 <img src="engines/emoji-gamemaker.png" alt="gamemaker" title="gamemaker" width="24"></img>
@@ -53,8 +53,27 @@ All the 130 icons below, shown at 24pt size:
 <img src="engines/emoji-unreal.png" alt="unreal" title="unreal" width="24"></img>
 <img src="engines/emoji-vvvv.png" alt="vvvv" title="vvvv" width="24"></img>
 
+### graphics-apis
 
-### Platforms
+<img src="graphics-apis/emoji-directx.png" alt="directx" title="directx" width="24"></img>
+<img src="graphics-apis/emoji-metal.png" alt="metal" title="metal" width="24"></img>
+<img src="graphics-apis/emoji-opengl.png" alt="opengl" title="opengl" width="24"></img>
+<img src="graphics-apis/emoji-vulkan.png" alt="vulkan" title="vulkan" width="24"></img>
+<img src="graphics-apis/emoji-webgl.png" alt="webgl" title="webgl" width="24"></img>
+
+### misc
+
+<img src="misc/emoji-demoscene.png" alt="demoscene" title="demoscene" width="24"></img>
+<img src="misc/emoji-gamedev.png" alt="gamedev" title="gamedev" width="24"></img>
+
+### networks
+
+<img src="networks/emoji-mastodon.png" alt="mastodon" title="mastodon" width="24"></img>
+<img src="networks/emoji-twitch.png" alt="twitch" title="twitch" width="24"></img>
+<img src="networks/emoji-twitter.png" alt="twitter" title="twitter" width="24"></img>
+<img src="networks/emoji-youtube.png" alt="youtube" title="youtube" width="24"></img>
+
+### platforms
 
 <img src="platforms/emoji-amiga.png" alt="amiga" title="amiga" width="24"></img>
 <img src="platforms/emoji-analogue.png" alt="analogue" title="analogue" width="24"></img>
@@ -75,29 +94,38 @@ All the 130 icons below, shown at 24pt size:
 <img src="platforms/emoji-xbox.png" alt="xbox" title="xbox" width="24"></img>
 <img src="platforms/emoji-zxspectrum.png" alt="zxspectrum" title="zxspectrum" width="24"></img>
 
-### Stores
+### stores
 
 <img src="stores/emoji-epicgamesstore.png" alt="epicgamesstore" title="epicgamesstore" width="24"></img>
 <img src="stores/emoji-gog.png" alt="gog" title="gog" width="24"></img>
 <img src="stores/emoji-itchio.png" alt="itchio" title="itchio" width="24"></img>
 <img src="stores/emoji-steam.png" alt="steam" title="steam" width="24"></img>
 
-### Networks
+### tools-audio
 
-<img src="networks/emoji-mastodon.png" alt="mastodon" title="mastodon" width="24"></img>
-<img src="networks/emoji-twitch.png" alt="twitch" title="twitch" width="24"></img>
-<img src="networks/emoji-twitter.png" alt="twitter" title="twitter" width="24"></img>
-<img src="networks/emoji-youtube.png" alt="youtube" title="youtube" width="24"></img>
+<img src="tools-audio/emoji-ableton.png" alt="ableton" title="ableton" width="24"></img>
+<img src="tools-audio/emoji-audacity.png" alt="audacity" title="audacity" width="24"></img>
+<img src="tools-audio/emoji-cubase.png" alt="cubase" title="cubase" width="24"></img>
+<img src="tools-audio/emoji-flstudio.png" alt="flstudio" title="flstudio" width="24"></img>
+<img src="tools-audio/emoji-fmod.png" alt="fmod" title="fmod" width="24"></img>
+<img src="tools-audio/emoji-garageband.png" alt="garageband" title="garageband" width="24"></img>
+<img src="tools-audio/emoji-logicpro.png" alt="logicpro" title="logicpro" width="24"></img>
+<img src="tools-audio/emoji-protools.png" alt="protools" title="protools" width="24"></img>
+<img src="tools-audio/emoji-reaper.png" alt="reaper" title="reaper" width="24"></img>
+<img src="tools-audio/emoji-renoise.png" alt="renoise" title="renoise" width="24"></img>
+<img src="tools-audio/emoji-wwise.png" alt="wwise" title="wwise" width="24"></img>
 
-### Graphics APIs
+### tools-ci-vcs
 
-<img src="graphics-apis/emoji-directx.png" alt="directx" title="directx" width="24"></img>
-<img src="graphics-apis/emoji-metal.png" alt="metal" title="metal" width="24"></img>
-<img src="graphics-apis/emoji-opengl.png" alt="opengl" title="opengl" width="24"></img>
-<img src="graphics-apis/emoji-vulkan.png" alt="vulkan" title="vulkan" width="24"></img>
-<img src="graphics-apis/emoji-webgl.png" alt="webgl" title="webgl" width="24"></img>
+<img src="tools-ci-vcs/emoji-buildbot.png" alt="buildbot" title="buildbot" width="24"></img>
+<img src="tools-ci-vcs/emoji-git.png" alt="git" title="git" width="24"></img>
+<img src="tools-ci-vcs/emoji-jenkins.png" alt="jenkins" title="jenkins" width="24"></img>
+<img src="tools-ci-vcs/emoji-perforce.png" alt="perforce" title="perforce" width="24"></img>
+<img src="tools-ci-vcs/emoji-plasticscm.png" alt="plasticscm" title="plasticscm" width="24"></img>
+<img src="tools-ci-vcs/emoji-svn.png" alt="svn" title="svn" width="24"></img>
+<img src="tools-ci-vcs/emoji-teamcity.png" alt="teamcity" title="teamcity" width="24"></img>
 
-### Tools: Graphics
+### tools-graphics
 
 <img src="tools-graphics/emoji-3dsmax.png" alt="3dsmax" title="3dsmax" width="24"></img>
 <img src="tools-graphics/emoji-aseprite.png" alt="aseprite" title="aseprite" width="24"></img>
@@ -125,21 +153,7 @@ All the 130 icons below, shown at 24pt size:
 <img src="tools-graphics/emoji-substance.png" alt="substance" title="substance" width="24"></img>
 <img src="tools-graphics/emoji-zbrush.png" alt="zbrush" title="zbrush" width="24"></img>
 
-### Tools: Audio
-
-<img src="tools-audio/emoji-ableton.png" alt="ableton" title="ableton" width="24"></img>
-<img src="tools-audio/emoji-audacity.png" alt="audacity" title="audacity" width="24"></img>
-<img src="tools-audio/emoji-cubase.png" alt="cubase" title="cubase" width="24"></img>
-<img src="tools-audio/emoji-flstudio.png" alt="flstudio" title="flstudio" width="24"></img>
-<img src="tools-audio/emoji-fmod.png" alt="fmod" title="fmod" width="24"></img>
-<img src="tools-audio/emoji-garageband.png" alt="garageband" title="garageband" width="24"></img>
-<img src="tools-audio/emoji-logicpro.png" alt="logicpro" title="logicpro" width="24"></img>
-<img src="tools-audio/emoji-protools.png" alt="protools" title="protools" width="24"></img>
-<img src="tools-audio/emoji-reaper.png" alt="reaper" title="reaper" width="24"></img>
-<img src="tools-audio/emoji-renoise.png" alt="renoise" title="renoise" width="24"></img>
-<img src="tools-audio/emoji-wwise.png" alt="wwise" title="wwise" width="24"></img>
-
-### Tools: IDEs
+### tools-ide
 
 <img src="tools-ide/emoji-emacs.png" alt="emacs" title="emacs" width="24"></img>
 <img src="tools-ide/emoji-rider.png" alt="rider" title="rider" width="24"></img>
@@ -147,17 +161,7 @@ All the 130 icons below, shown at 24pt size:
 <img src="tools-ide/emoji-visualstudio.png" alt="visualstudio" title="visualstudio" width="24"></img>
 <img src="tools-ide/emoji-vscode.png" alt="vscode" title="vscode" width="24"></img>
 
-### Tools: CI and VCS
-
-<img src="tools-ci-vcs/emoji-buildbot.png" alt="buildbot" title="buildbot" width="24"></img>
-<img src="tools-ci-vcs/emoji-git.png" alt="git" title="git" width="24"></img>
-<img src="tools-ci-vcs/emoji-jenkins.png" alt="jenkins" title="jenkins" width="24"></img>
-<img src="tools-ci-vcs/emoji-perforce.png" alt="perforce" title="perforce" width="24"></img>
-<img src="tools-ci-vcs/emoji-plasticscm.png" alt="plasticscm" title="plasticscm" width="24"></img>
-<img src="tools-ci-vcs/emoji-svn.png" alt="svn" title="svn" width="24"></img>
-<img src="tools-ci-vcs/emoji-teamcity.png" alt="teamcity" title="teamcity" width="24"></img>
-
-### Tools: Other
+### tools-other
 
 <img src="tools-other/emoji-confluence.png" alt="confluence" title="confluence" width="24"></img>
 <img src="tools-other/emoji-discord.png" alt="discord" title="discord" width="24"></img>
@@ -177,7 +181,3 @@ All the 130 icons below, shown at 24pt size:
 <img src="tools-other/emoji-word.png" alt="word" title="word" width="24"></img>
 <img src="tools-other/emoji-zoom.png" alt="zoom" title="zoom" width="24"></img>
 
-### Misc
-
-<img src="misc/emoji-demoscene.png" alt="demoscene" title="demoscene" width="24"></img>
-<img src="misc/emoji-gamedev.png" alt="gamedev" title="gamedev" width="24"></img>
