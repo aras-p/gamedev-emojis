@@ -16,13 +16,14 @@ So yeah, I don't quite know how "legal" making icons like that is. In any case, 
 trade marks, intellectual property etc. etc. of all of those belongs to their original companies and owners.
 I made these icons for my own purposes only.
 
-All the 130 icons below, shown at 24pt size:
+All the 135 icons below, shown at 24pt size:
 
 ### engines
 
 <img src="engines/emoji-babylonjs.png" alt="babylonjs" title="babylonjs" width="24"></img>
 <img src="engines/emoji-bevy.png" alt="bevy" title="bevy" width="24"></img>
 <img src="engines/emoji-c4engine.png" alt="c4engine" title="c4engine" width="24"></img>
+<img src="engines/emoji-cablesgl.png" alt="cablesgl" title="cablesgl" width="24"></img>
 <img src="engines/emoji-cinder.png" alt="cinder" title="cinder" width="24"></img>
 <img src="engines/emoji-cocos2d.png" alt="cocos2d" title="cocos2d" width="24"></img>
 <img src="engines/emoji-construct.png" alt="construct" title="construct" width="24"></img>
@@ -37,6 +38,7 @@ All the 130 icons below, shown at 24pt size:
 <img src="engines/emoji-luxe.png" alt="luxe" title="luxe" width="24"></img>
 <img src="engines/emoji-monogame.png" alt="monogame" title="monogame" width="24"></img>
 <img src="engines/emoji-needle.png" alt="needle" title="needle" width="24"></img>
+<img src="engines/emoji-notch.png" alt="notch" title="notch" width="24"></img>
 <img src="engines/emoji-panda3d.png" alt="panda3d" title="panda3d" width="24"></img>
 <img src="engines/emoji-pico8.png" alt="pico8" title="pico8" width="24"></img>
 <img src="engines/emoji-playcanvas.png" alt="playcanvas" title="playcanvas" width="24"></img>
@@ -75,6 +77,7 @@ All the 130 icons below, shown at 24pt size:
 
 ### platforms
 
+<img src="platforms/emoji-acorn_archimedes.png" alt="acorn_archimedes" title="acorn_archimedes" width="24"></img>
 <img src="platforms/emoji-amiga.png" alt="amiga" title="amiga" width="24"></img>
 <img src="platforms/emoji-analogue.png" alt="analogue" title="analogue" width="24"></img>
 <img src="platforms/emoji-android.png" alt="android" title="android" width="24"></img>
@@ -86,10 +89,12 @@ All the 130 icons below, shown at 24pt size:
 <img src="platforms/emoji-mac.png" alt="mac" title="mac" width="24"></img>
 <img src="platforms/emoji-macos.png" alt="macos" title="macos" width="24"></img>
 <img src="platforms/emoji-msdos.png" alt="msdos" title="msdos" width="24"></img>
+<img src="platforms/emoji-msx.png" alt="msx" title="msx" width="24"></img>
 <img src="platforms/emoji-playdate.png" alt="playdate" title="playdate" width="24"></img>
 <img src="platforms/emoji-playstation.png" alt="playstation" title="playstation" width="24"></img>
 <img src="platforms/emoji-snes.png" alt="snes" title="snes" width="24"></img>
 <img src="platforms/emoji-switch.png" alt="switch" title="switch" width="24"></img>
+<img src="platforms/emoji-tic80.png" alt="tic80" title="tic80" width="24"></img>
 <img src="platforms/emoji-windows.png" alt="windows" title="windows" width="24"></img>
 <img src="platforms/emoji-xbox.png" alt="xbox" title="xbox" width="24"></img>
 <img src="platforms/emoji-zxspectrum.png" alt="zxspectrum" title="zxspectrum" width="24"></img>
@@ -180,4 +185,3 @@ All the 130 icons below, shown at 24pt size:
 <img src="tools-other/emoji-winamp.png" alt="winamp" title="winamp" width="24"></img>
 <img src="tools-other/emoji-word.png" alt="word" title="word" width="24"></img>
 <img src="tools-other/emoji-zoom.png" alt="zoom" title="zoom" width="24"></img>
-
