@@ -16,7 +16,7 @@ So yeah, I don't quite know how "legal" making icons like that is. In any case, 
 trade marks, intellectual property etc. etc. of all of those belongs to their original companies and owners.
 I made these icons for my own purposes only.
 
-All the 135 icons below, shown at 24pt size:
+All the 136 icons below, shown at 24pt size:
 
 ### engines
 
@@ -62,6 +62,7 @@ All the 135 icons below, shown at 24pt size:
 <img src="graphics-apis/emoji-opengl.png" alt="opengl" title="opengl" width="24"></img>
 <img src="graphics-apis/emoji-vulkan.png" alt="vulkan" title="vulkan" width="24"></img>
 <img src="graphics-apis/emoji-webgl.png" alt="webgl" title="webgl" width="24"></img>
+<img src="graphics-apis/emoji-webgpu.png" alt="webgpu" title="webgpu" width="24"></img>
 
 ### misc
 
