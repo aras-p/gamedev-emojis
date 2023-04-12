@@ -16,7 +16,7 @@ So yeah, I don't quite know how "legal" making icons like that is. In any case, 
 trade marks, intellectual property etc. etc. of all of those belongs to their original companies and owners.
 I made these icons for my own purposes only.
 
-All the 129 icons below, shown at 24pt size:
+All the 130 icons below, shown at 24pt size:
 
 ### Engines
 
