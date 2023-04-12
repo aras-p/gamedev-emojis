@@ -27,6 +27,7 @@ All the 129 icons below, shown at 24pt size:
 <img src="engines/emoji-cocos2d.png" alt="cocos2d" title="cocos2d" width="24"></img>
 <img src="engines/emoji-construct.png" alt="construct" title="construct" width="24"></img>
 <img src="engines/emoji-defold.png" alt="defold" title="defold" width="24"></img>
+<img src="engines/emoji-dotbigbang.png" alt="defold" title="defold" width="24"></img>
 <img src="engines/emoji-flash.png" alt="flash" title="flash" width="24"></img>
 <img src="engines/emoji-flax.png" alt="flax" title="flax" width="24"></img>
 <img src="engines/emoji-gamemaker.png" alt="gamemaker" title="gamemaker" width="24"></img>
